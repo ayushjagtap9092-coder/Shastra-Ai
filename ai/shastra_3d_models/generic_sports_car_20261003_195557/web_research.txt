@@ -1,0 +1,21 @@
+SHASTRA FAST + ACCURATE PROCEDURAL 3D MODEL
+
+REQUEST: generic sports car
+OBJECT TYPE: car
+
+RESEARCHED FACTS / SNIPPETS:
+[1] No web snippets returned; used SHASTRA local geometry profile.
+
+
+DERIVED GEOMETRY PROFILE:
+{
+  "source_count": 1,
+  "length": null,
+  "width": null,
+  "height": null,
+  "wheel_count": 4,
+  "rotor_count": 4,
+  "parts": [],
+  "features": [],
+  "_request": "generic sports car"
+}

@@ -1,0 +1,5 @@
+SpeechRecognition
+sounddevice
+numpy
+pyautogui
+Pillow
